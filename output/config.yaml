@@ -455,7 +455,7 @@ MODEL:
     PROJ_NUM_LAYERS: 2
     VOCAB_SIZE: 49408
     WIDTH: 256
-  WEIGHTS: /home/sidd_s/scratch/oneformer_checkpoints/mapillary_pretrain_250_16_convnext_xl_oneformer_cityscapes_90k.pth
+  WEIGHTS: /home/sidd_s/scratch/oneformer_checkpoints/mapillary_pretrain_250_16_convnext_xl_oneformer_mapillary_300k.pth
 OUTPUT_DIR: ./output
 SEED: -1
 SOLVER:
